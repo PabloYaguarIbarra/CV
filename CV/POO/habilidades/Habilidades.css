@@ -1,0 +1,9 @@
+.containerhabi .border{
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+
+}
+.containerhabi .row .border:hover{
+    color: #5bc0de;
+
+}
